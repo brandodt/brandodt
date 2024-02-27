@@ -11,6 +11,6 @@
 
 📫 You can reach me via email at brandodt@proton.me
 
----
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandodt&layout=compact&theme=radical)](https://github.com/brandodt)
