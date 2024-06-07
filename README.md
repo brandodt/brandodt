@@ -12,6 +12,8 @@
 
 ![brandodt GitHub stats](https://github-readme-stats.vercel.app/api?username=brandodt&show_icons=true&theme=radical)
 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dwaynelifter.png)
+
 ### 🛠️ Tools & Technologies
 
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
