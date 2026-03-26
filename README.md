@@ -52,6 +52,8 @@ I work with web technologies and security testing. Currently diving deep into cy
 ### Stay Connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandodt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bruhnd0)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/lexchaolan)
 [![Website](https://img.shields.io/badge/Portfolio-bdt.ninja-000000?style=flat&logo=firefox&logoColor=white)](https://bdt.ninja)
 
 </div>
