@@ -11,7 +11,8 @@ I work with web technologies and security testing. Currently diving deep into cy
 
 ## Certifications
 
-- **Certified Cyber Security Analyst (C3SA) Premium Edition** - CyberWarfare Labs (Nov 2025)
+- **Ethical Hacker** - [Cisco Networking Academy](https://www.credly.com/badges/913c3a46-397f-405b-a611-8133314ed3ac) (Apr 2026)
+- **Certified Cyber Security Analyst (C3SA) Premium Edition** - [CyberWarfare Labs](https://app.kajabi.com/certificates/3322967d) (Nov 2025)
 - **Certified Network Security Practitioner (CNSP)** - The SecOps Group (Nov 2025)
 
 ## Tech Stack
