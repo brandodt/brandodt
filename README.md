@@ -39,11 +39,11 @@ I work with web technologies and security testing. Currently diving deep into cy
 
 ### GitHub Activity
 
-![brandodt GitHub stats](https://github-readme-stats.vercel.app/api?username=brandodt&show_icons=true&theme=radical)
+![brandodt GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brandodt&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandodt&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandodt&layout=compact&theme=radical&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandodt&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=brandodt&theme=radical)
 
 ### Recognition
 
