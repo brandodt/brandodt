@@ -38,14 +38,6 @@ I work with web technologies and security testing. Currently diving deep into cy
 
 ## Featured
 
-### GitHub Activity
-
-![brandodt GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brandodt&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandodt&layout=compact&theme=radical&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=brandodt&theme=radical)
-
 ### Recognition
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dwaynelifter.png)
